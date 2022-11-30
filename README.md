@@ -19,7 +19,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 </ol>
 
 ## Usage
-![alt text](challenge/starter/assets/images/screenshot.png)
+![alt text](horiseon-website/starter/assets/images/screenshot.png)
 
 ## Credits
 I used the following website as a reference as to what to replace the div's with
